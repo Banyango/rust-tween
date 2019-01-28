@@ -1,0 +1,7 @@
+[package]
+name = "rust-tween"
+version = "0.1.0"
+authors = ["Kyle Reczek <kyle@banyango.com>"]
+edition = "2018"
+
+[dependencies]
