@@ -32,7 +32,7 @@ mod tests {
                     x.tick(delta);
 
                     self.value1 = x.value;
-                    
+
                 },
                 None => {}
             }
@@ -51,6 +51,6 @@ mod tests {
         test.update(0.5);
 
         assert_eq!(test.value1, -1.0);
-
+    
     }
 }
